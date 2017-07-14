@@ -12,6 +12,7 @@ follow the steps for gmail API: https://developers.google.com/gmail/api/quicksta
 
 Install library using command below
 pip install --upgrade google-api-python-client
+pip install --upgrade httplib2
 
 you may run quickrun.py to test it.
 if you encounter error, first look for the client_secret.json if existed.
